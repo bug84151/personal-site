@@ -1,0 +1,143 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+p{
+  line-height: 2;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Montez', cursive;
+  letter-spacing: 3px;
+  font-size: 5.625rem;
+  color:  #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:  #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:  #11999E;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 30px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.profile_img{
+  width:  200px;
+}
+
+.programming_img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.basketball_img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.repair_img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.intro{
+  width: 30%;
+  margin:auto;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  border-color: #89B5AF;
+  margin: 100px auto;
+}
+
+.btn {
+  background: #66bfbf;
+  background-image: -webkit-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: -moz-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: -ms-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: -o-linear-gradient(top, #66bfbf, #66bfbf);
+  background-image: linear-gradient(to bottom, #66bfbf, #66bfbf);
+  border-radius: 8px;
+  font-family:'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 30px;
+}
+
+.btn:hover {
+  background:#48a3a3;
+  text-decoration: none;
+}
+
+.bottom_container{
+  background-color:#66BFBF;
+  padding: 50px 0 20px;
+}
+
+.copy-right{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+a{
+  margin: 15px;
+  text-decoration: none;
+  color: #11999E;
+  font-family: 'montserrat', sans-serif;
+}
+
+a:hover{
+  color: #EAF6F6;
+  text-decoration: underline;
+}
